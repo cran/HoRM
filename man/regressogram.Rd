@@ -3,7 +3,7 @@
 \alias{regressogram}
 \usage{
 regressogram(x, y, nbins = 10, show.bins = TRUE,
-			 show.means = TRUE, show.lines = TRUE,
+			       show.means = TRUE, show.lines = TRUE,
              x.lab = "X", y.lab = "Y", main = "TITLE")
 }
 \description{

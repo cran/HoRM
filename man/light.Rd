@@ -1,7 +1,7 @@
 \name{light}
 \docType{data}
 \alias{light}
-\title{Blood Alcohol Concentration Dataset}
+\title{Light Dataset}
 \usage{
 data(light)
 }

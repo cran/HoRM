@@ -30,7 +30,7 @@ data(toy)
 
 full <- lm(y~x, data = toy)
 reduced <- lm(y~1, data = toy)
-power.F(full = full,reduced = reduced, alpha = 0.05)
+power.F(full = full, reduced = reduced, alpha = 0.05)
 }
 
 \keyword{file}

@@ -17,7 +17,7 @@ data(credloss)
   \item{\code{LGD.vol}}{ A loss given default volatility measure.}
 }
 }
-\source{Bruche, M. and Gonzalez-Aguado, C. (2010), Recovery Rates, Defaulty Probabilities, and the Credity Cycle, \emph{Journal of Banking and Finance},
+\source{Bruche, M. and Gonzalez-Aguado, C. (2010), Recovery Rates, Default Probabilities, and the Credit Cycle, \emph{Journal of Banking and Finance},
   \bold{34}, 754--764.
 }
 \references{

@@ -9,6 +9,7 @@ import(
   ggplot2,
   MASS,
   orthopolynom,
+  rsm,
   quantmod,
   stats4
 )

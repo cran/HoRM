@@ -10,9 +10,9 @@ data(JamesBond)
 }
 \format{This data frame consists of 18 variables measured on the 24 films:
 \itemize{
-  \item{\code{Year}}{ Year of the film's theatrical release}
+  \item{\code{Year}}{ Year of the film's theatrical release.}
   \item{\code{Movie}}{ Title of the movie.}
-  \item{\code{Bond}}{ Actor who played James Bond}
+  \item{\code{Bond}}{ Actor who played James Bond.}
   \item{\code{US_Gross}}{ The film's U.S. growth (in 1000's of U.S. dollars).}
   \item{\code{US_Adj}}{ The film's 2013-adjusted U.S. growth (in 1000's of U.S. dollars).}
   \item{\code{World_Gross}}{ The film's worldwide growth (in 1000's of U.S. dollars).}

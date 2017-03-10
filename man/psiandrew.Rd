@@ -5,7 +5,7 @@
 psi.andrew(u, k=1.339, deriv=0)
 }
 \description{
-  Andrew's sine function for use when fitting a linear model by robust regression using an M estimator.
+  Andrew's sine function for use when fitting a linear model by robust regression using an M-estimator.
 }
 
 \arguments{
