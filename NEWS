@@ -1,4 +1,9 @@
 #######################################
+2019-04-24 (Version 0.1.2)
+#######################################
+*Fixed formatting issue in the 'JamesBond' dataset.
+
+#######################################
 2017-03-10 (Version 0.1.1)
 #######################################
 *Imported the rsm package since the odor dataset was originally saved as a coded
