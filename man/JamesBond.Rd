@@ -13,11 +13,11 @@ data(JamesBond)
   \item{\code{Year}}{ Year of the film's theatrical release.}
   \item{\code{Movie}}{ Title of the movie.}
   \item{\code{Bond}}{ Actor who played James Bond.}
-  \item{\code{US_Gross}}{ The film's U.S. growth (in 1000's of U.S. dollars).}
-  \item{\code{US_Adj}}{ The film's 2013-adjusted U.S. growth (in 1000's of U.S. dollars).}
-  \item{\code{World_Gross}}{ The film's worldwide growth (in 1000's of U.S. dollars).}
-  \item{\code{World_Adj}}{ The film's 2013-adjusted worldwide growth (in 1000's of U.S. dollars).}
-  \item{\code{Budget}}{ The film's budget (in 1000's of U.S. dollars).}
+  \item{\code{US_Gross}}{ The film's U.S. gross (in U.S. dollars).}
+  \item{\code{US_Adj}}{ The film's 2013-adjusted U.S. gross (in 1000's of U.S. dollars).}
+  \item{\code{World_Gross}}{ The film's worldwide gross (in U.S. dollars).}
+  \item{\code{World_Adj}}{ The film's 2013-adjusted worldwide gross (in 1000's of U.S. dollars).}
+  \item{\code{Budget}}{ The film's budget (in U.S. dollars).}
   \item{\code{Budget_Adj}}{ The film's 2013-adjusted budget (in 1000's of U.S. dollars).}
   \item{\code{Film_Length}}{ Length of the theatrical release.}
   \item{\code{Avg_User_IMDB}}{ The average user rating on IMDB (www.imdb.com).}
@@ -30,8 +30,11 @@ data(JamesBond)
   \item{\code{Top_100}}{ An indicator where a value of 1 means the title song  within the top 100 on the UK Singles Chart and the U.S. Billboard Hot 100 and a value of 0 means it did not.}
 }
 }
-\source{Young, D. S. (2014), Bond. James Bond. A Statistical Look at Cinema's Most Famous Spy, \emph{Chance},
-  \bold{27}, 21--27.
+\source{Young, D. S. (2014), Bond. James Bond. A Statistical Look at Cinema's Most Famous Spy, \emph{CHANCE},
+  \bold{27}(2), 21--27.
+
+Young, D. S. (2019), Bond. James Bond. A Statistical Look at Cinema's Most Famous Spy (\emph{The Best of CHANCE Issue}), \emph{Chance},
+  \bold{32}(1), 27--35.
 }
 \references{
   Young, D. S. (2017), \emph{Handbook of Regression Methods}, CRC Press.
