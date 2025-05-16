@@ -12,8 +12,8 @@ Various wrapper functions and datasets to supplement examples for the book "Hand
 \tabular{ll}{
 Package: \tab HoRM\cr
 Type: \tab Package\cr
-Version: \tab 0.1.3\cr
-Date: \tab 2021-03-10\cr
+Version: \tab 0.1.4\cr
+Date: \tab 2025-05-17\cr
 Imports: \tab ggplot2, MASS, orthopolynom, quantmod, rsm, stats4\cr
 License: \tab GPL (>= 2)\cr
 }

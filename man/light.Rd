@@ -10,8 +10,8 @@ data(light)
 }
 \format{This data frame consists of 2 variables measured on 12 different instances:
 \itemize{
-  \item{\code{reading}}{ The optical reading.}
-  \item{\code{concentration}}{ The concentration of the chemical.}
+  \item \code{reading} The optical reading. 
+  \item \code{concentration} The concentration of the chemical.
 }
 }
 \source{Graybill, F. A. and Iyer, H. K. (1994), \emph{Regression Analysis: Concepts and Applications}, Duxbury Press.

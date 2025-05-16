@@ -10,10 +10,10 @@ data(yarn)
 is spun into yarn to make draperies.}
 \format{This data frame consists of 4 variables measured at 15 design points for a \{3,2\} simplex lattice design:
 \itemize{	
-  \item{\code{x1}}{ The proportion of the polyethylene component.}
-  \item{\code{x2}}{ The proportion of the polystyrene component.}
-  \item{\code{x3}}{ The proportion of the polypropylene component.}
-  \item{\code{y}}{ The measurement of yarn elongation.}
+  \item \code{x1} The proportion of the polyethylene component.
+  \item \code{x2} The proportion of the polystyrene component.
+  \item \code{x3} The proportion of the polypropylene component.
+  \item \code{y} The measurement of yarn elongation.
 }
 }
 \source{Cornell, J. A. (2002), \emph{Experiments with Mixtures: Designs, Models, and the Analysis of Mixture Data, Third Edition}, John Wiley and Sons, Inc.

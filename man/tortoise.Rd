@@ -11,8 +11,8 @@ of eggs in female gopher tortoises in southern Florida.
 }
 \format{This data frame consists of 2 variables measured on 18 tortoises:
 \itemize{
-  \item{\code{length}}{ The carapace length (in millimeters).}
-  \item{\code{clutch}}{ The number of eggs (clutch size).}
+  \item \code{length} The carapace length (in millimeters).
+  \item \code{clutch} The number of eggs (clutch size).
 }
 }
 \source{Ashton, K. G., Burke, R. L., and Layne, J. N. (2007),  Geographic Variation in Body

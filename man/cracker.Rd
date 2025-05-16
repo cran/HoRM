@@ -10,10 +10,10 @@ data(cracker)
 }
 \format{This data frame consists of 15 stores, each receiving a particular promotional strategy, with the following 4 variables (columns):
 \itemize{
-  \item{\code{treat}}{ An indicator for which of the three marketing strategies (treatment) was employed.}
-  \item{\code{store}}{ The store number within the particular treatment.}
-  \item{\code{y}}{ The number of cases of the crackers sold during the promotional period.}
-  \item{\code{x}}{ The store's cracker sales during the preceding sales period.}
+  \item \code{treat} An indicator for which of the three marketing strategies (treatment) was employed.
+  \item \code{store} The store number within the particular treatment.
+  \item \code{y} The number of cases of the crackers sold during the promotional period.
+  \item \code{x} The store's cracker sales during the preceding sales period.
 	}
 }
 \source{Kutner, M. H., Nachtsheim, C. J., Neter, J., and Li, W. (2005) \emph{Applied Linear Statistical Models, Fifth Edition}, McGraw-Hill/Irwin.

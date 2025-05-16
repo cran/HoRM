@@ -10,7 +10,7 @@ data(stock)
 }
 \format{This is an extensible time series (\code{xts}) object for the 105 trading days of interest:
 \itemize{
-  \item{\code{GOOG.close}}{ The closing stock price of a share of Google stock.}
+  \item \code{GOOG.close} The closing stock price of a share of Google stock.
 }
 }
 \source{Yahoo! Finance; accessed 01-26-2017.

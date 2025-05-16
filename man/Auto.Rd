@@ -10,12 +10,12 @@ data(Auto)
 }
 \format{This data frame consists of 20 categories (rows) and 6 variables (columns):
 \itemize{
-  \item{\code{Merit}}{ Merit rating of policyholder.}
-  \item{\code{Class}}{ Class rating of policyholder.}
-  \item{\code{Insured}}{ Earned car years under the policy.}
-  \item{\code{Premiums}}{ Earned premium at present rates (in 1000's of Canadian dollars).}
-  \item{\code{Claims}}{ Number of claims incurred.}
-  \item{\code{Cost}}{ Incurred losses (in 1000's of Canadian dollars).}
+  \item \code{Merit} Merit rating of policyholder.
+  \item \code{Class} Class rating of policyholder.
+  \item \code{Insured} Earned car years under the policy.
+  \item \code{Premiums} Earned premium at present rates (in 1000's of Canadian dollars).
+  \item \code{Claims} Number of claims incurred.
+  \item \code{Cost} Incurred losses (in 1000's of Canadian dollars).
 }
 }
 \source{Bailey, R. A. and Simon, L. J. (1960),   Two Studies in Automobile Insurance Ratemaking, \emph{ASTIN Bulletin},

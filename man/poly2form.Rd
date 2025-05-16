@@ -14,7 +14,7 @@ poly2form(poly.out, x)
 } \value{
   \code{poly.out} returns a matrix whose columns are the evaluation of each polynomial in \code{poly.out} using \code{x}.
 } \seealso{
-  \code{\link{legendre.polynomials}}
+  \code{\link[orthopolynom]{legendre.polynomials}}
 } 
 
 

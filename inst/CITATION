@@ -1,15 +1,10 @@
-citHeader("To cite HoRM in publications use:")
-
-citEntry(entry = "book",
-  title        = "{Handbook of Regression Methods}",
-  author       = personList(as.person("Derek S. Young")),
-  publisher      = "CRC Press/Taylor & Francis Group",
-  year         = "2017",
-  address       = "Boca Raton, FL",
-
-  textVersion  =
-  paste("Derek S. Young (2017).",
-        "Handbook of Regression Methods.",
-        "CRC Press/Taylor & Francis Group.",
-        "Boca Raton, FL.")
+bibentry(
+  bibtype = "Book",
+  textVersion = "D. S. Young. Handbook of Regression Methods. CRC Press/Taylor & Francis Group. Boca Raton, FL, 2017.",
+  header = "To cite HoRM in publications, please use",
+  author = "Derek S. Young",
+  title = "Handbook of Regression Methods",
+  publisher = "CRC Press/Taylor & Francis Group",
+  year = "2017",
+  isbn = "978-1498775298",
 )

@@ -15,7 +15,7 @@ psi.andrew(u, k=1.339, deriv=0)
 } \value{
   \code{psi.andrew} returns a vector of points evaluated using Andrew's sine function.
 } \seealso{
-  \code{\link{rlm}}
+  \code{\link[MASS]{rlm}}
 } 
 
 

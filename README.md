@@ -6,12 +6,12 @@
 [![Dependencies](https://tinyverse.netlify.com/badge/HoRM)](https://cran.r-project.org/package=HoRM)
 ![GitHub last commit](https://img.shields.io/github/last-commit/dsy109/HoRM)
 [![Downloads](https://cranlogs.r-pkg.org/badges/HoRM?color=brightgreen)](https://www.r-pkg.org/pkg/HoRM)
-[![Shiny](https://img.shields.io/badge/Shiny-HoRM-brightgreen)](https://horm.as.uky.edu/)
+[![Shiny](https://img.shields.io/badge/Shiny-HoRM-brightgreen)](https://derekyoung.shinyapps.io/HoRM/)
 [![Book](https://img.shields.io/badge/HoRM__Book-ISBN%209781498775298-brightgreen)](https://www.routledge.com/Handbook-of-Regression-Methods/Young/p/book/9781498775298)
 
 ### Synopsis
 
-The [HoRM package](https://cran.r-project.org/package=HoRM) provides supplemental functions and datasets for the book [_Handbook of Regression Methods_](https://www.routledge.com/Handbook-of-Regression-Methods/Young/p/book/9781498775298) by [Derek S. Young](https://young.as.uky.edu/).  Illustrations of the datasets are included in both that textbook as well as the accompanying [Shiny app](https://horm.as.uky.edu/).
+The [HoRM package](https://cran.r-project.org/package=HoRM) provides supplemental functions and datasets for the book [_Handbook of Regression Methods_](https://www.routledge.com/Handbook-of-Regression-Methods/Young/p/book/9781498775298) by [Derek S. Young](https://young.as.uky.edu/).  Illustrations of the datasets are included in both that textbook as well as the accompanying [Shiny app](https://derekyoung.shinyapps.io/HoRM/).
 
 Other highlights:
 
@@ -25,7 +25,7 @@ The book _Handbook of Regression Methods_ provides documentation about the HoRM 
 
 ### Examples
 
-All examples in _Handbook of Regression Methods_ are demonstrated in the [Shiny app](https://horm.as.uky.edu/).
+All examples in _Handbook of Regression Methods_ are demonstrated in the [Shiny app](https://derekyoung.shinyapps.io/HoRM/).
 
 ### Installation
 

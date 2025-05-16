@@ -10,8 +10,8 @@ data(BAC)
 }
 \format{This data frame consists of 2 variables measured on 15 subjects:
 \itemize{
-  \item{\code{breath}}{ BAC obtained using the Breathalyzer Model 5000.}
-  \item{\code{labtest}}{ BAC based on a breath estimate in a laboratory.}
+  \item \code{breath} BAC obtained using the Breathalyzer Model 5000.
+  \item \code{labtest} BAC based on a breath estimate in a laboratory.
 }
 }
 \source{Krishnamoorthy, K., Kulkarni, P. M., and Mathew, T. (2001), Multiple Use One-Sided Hypotheses Testing in Univariate Linear Calibration, \emph{Journal of Statistical Planning and Inference},
